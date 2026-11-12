@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
   Sincronizza il fork aziendale ProbatPdfCraft con il repository ufficiale upstream (storytold/pdfcraft)
   preservando le modifiche aziendali (isolamento offline, rimozione brand terzi, branding ProbatPdfCraft).
